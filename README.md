@@ -1,13 +1,15 @@
 # GenAI_LLM_SCFP125046
 
-This repository contains Generative AI lab activities, prompt engineering exercises, practical implementations, and notebook-based projects.
+This repository contains Generative AI lab activities, assignments, prompt engineering exercises, practical implementations, and notebook-based projects.
 
 ## Contents
 
 1. [Lab 3 – Prompt Engineering](./Lab3/)
 2. [Lab 5 – LangChain and Output Parsers](./Lab5/)
 3. [Lab 6 – Working with Tools](./Lab6/)
-4. [Lab Test Booking Assistant](./Lab_Test_Booking_Assistant/lab-test-booking-assistant.ipynb)
+4. [Assignment 1](./Assignment_1/Assignment_1.ipynb)
+5. [Assignment 2](./Assignment_2/Assignment_2.ipynb)
+6. [Lab Test Booking Assistant](./Lab_Test_Booking_Assistant/lab-test-booking-assistant.ipynb)
 
 ## Lab 3 – Prompt Engineering
 
@@ -20,6 +22,18 @@ Practical implementation of LangChain PromptTemplate, PydanticOutputParser, and 
 ## Lab 6 – Working with Tools
 
 Practical exercises exploring tool integration and how AI models can interact with external tools.
+
+## Assignment 1
+
+Generative AI assignment notebook containing practical implementations and exercises.
+
+[View Assignment 1](./Assignment_1/Assignment_1.ipynb)
+
+## Assignment 2
+
+Generative AI assignment notebook containing practical implementations and exercises.
+
+[View Assignment 2](./Assignment_2/Assignment_2.ipynb)
 
 ## Lab Test Booking Assistant
 
